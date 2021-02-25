@@ -1,0 +1,37 @@
+body{
+    background-color: aqua;
+}
+.center_div{
+    background-color: rgb(245, 142, 142);
+    font-size: 25px;
+}
+button{
+    background-color: #ffffff;
+    color: #000000;
+    margin: 10px;
+    padding: 5px;
+    border-radius: 10px;
+    font-size: 20px;
+
+}
+button:hover{
+    background-color: #3364ec;
+    color: #fff;
+}
+select{
+    padding: 5px;
+    font-size: 20px;
+}
+input{
+    padding: 5px;
+    font-size: 20px;
+
+}
+label{
+    font-size: 30px;
+    color: rgb(0, 0, 0);
+    margin: 10px;
+}
+.result{
+    background-color: rgb(248, 244, 226);
+}
